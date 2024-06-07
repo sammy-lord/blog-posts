@@ -12,7 +12,7 @@ Paranoia was creeping in every time I used Windows or even regular GNU/Linux dis
 
 ## ROBLOX Compatibility
 
-As a ROBLOX enthusiast, compatibility was a big deal for me. Luckily, Chromebooks now support ROBLOX through the Play Store, allowing me to dive into my favorite games and development projects without hassle. Whether I'm creating new experiences or enjoying games made by others, my Chromebook handles it all with ease.
+As a ROBLOX enthusiast, compatibility was a big deal for me. Luckily, Chromebooks now support ROBLOX through the Play Store and the Crostini Linux Virtual Machine, allowing me to dive into my favorite games and development projects without hassle. Whether I'm creating new experiences or enjoying games made by others, my Chromebook handles it all with ease.
 
 ## Linux and Android App Compatibility
 
@@ -20,6 +20,6 @@ One of the best features of Chrome OS is its compatibility with Linux and Androi
 
 ## Cloud Gaming
 
-When it comes to gaming, cloud gaming has changed the landscape. Services like NVIDIA GeForce NOW and Google Stadia allow me to play high-end games on my Chromebook with the same quality as on my gaming PC. The hardware limitations of the Chromebook are no longer a barrier, as the heavy lifting is done by powerful servers. I can game anywhere, anytime, without lugging around a bulky gaming rig.
+When it comes to gaming, cloud gaming has changed the landscape. Services like NVIDIA GeForce NOW and XBOX Cloud Gaming allow me to play high-end games on my Chromebook with the same quality as on my gaming PC. The hardware limitations of the Chromebook are no longer a barrier, as the heavy lifting is done by powerful servers. I can game anywhere, anytime, without lugging around a bulky gaming rig.
 
 Switching to a Chromebook has been a game-changer for me. It brings together the comfort of a streamlined interface, robust security, access to my favorite apps, and even solid gaming performance. If you're looking for a device that combines simplicity, security, and versatility, a Chromebook might just be the perfect fit.
