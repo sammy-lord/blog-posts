@@ -10,13 +10,13 @@ First and foremost, using a Chromebook feels like home. The simplicity and speed
 
 Paranoia was creeping in every time I used Windows or even regular GNU/Linux distros. Concerns about security, privacy, and constant maintenance were gnawing at me. With Chrome OS, those worries have melted away. The system's built-in security features, regular updates, and sandboxing of apps give me peace of mind. I no longer feel the need to constantly monitor my system for threats or vulnerabilities.
 
-## ROBLOX Compatibility
-
-As a ROBLOX enthusiast, compatibility was a big deal for me. Luckily, Chromebooks now support ROBLOX through the Play Store and the Crostini Linux Virtual Machine, allowing me to dive into my favorite games and development projects without hassle. Whether I'm creating new experiences or enjoying games made by others, my Chromebook handles it all with ease.
-
 ## Linux and Android App Compatibility
 
 One of the best features of Chrome OS is its compatibility with Linux and Android apps. This means I have access to a vast array of applications that I use regularly, from development tools to productivity apps. Setting up a Linux environment on my Chromebook was straightforward, and running Android apps feels seamless. It’s the best of both worlds—desktop-class apps alongside mobile convenience.
+
+## ROBLOX Compatibility
+
+As a ROBLOX enthusiast, compatibility was a big deal for me. Luckily, Chromebooks now support ROBLOX through the Play Store and the Crostini Linux Virtual Machine, allowing me to dive into my favorite games and development projects without hassle. Whether I'm creating new experiences or enjoying games made by others, my Chromebook handles it all with ease.
 
 ## Cloud Gaming
 
