@@ -2,4 +2,4 @@
 
 * App compatilbility
 * Games compatibility
-* Oculus compatibility ( Thanks @PatchMixolydic for the donation of the Oculus Rift S! )
+* Oculus compatibility ( Thanks [@PatchMixolydic](https://patchmixolydic.com) for the donation of the Oculus Rift S! )
