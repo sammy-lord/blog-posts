@@ -10,7 +10,7 @@
 * Discord - Element (Matrix client)
 * Photoshop - Krita
 * Adobe Animate - Pencil2D
-* ROBLOX - Brick Planet (Currently Requires Windows VM, Linux version coming in the future!)
+* ROBLOX - [Brick Hill](https://www.brick-hill.com/client/) with [WINE launcher](https://github.com/ComradeNapCali/BrickHillCrossoverLauncher)
 * Super Mario - SuperTux
 * Mario Kart - SuperTuxKart
 * Epic Games Launcher - Heroic Games Launcher
