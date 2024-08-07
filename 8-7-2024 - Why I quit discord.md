@@ -61,5 +61,5 @@ protection, and transparency – values that Discord has yet to fully uphold.
 However, a friendly reminder: you can add me on Session. 
 If you knew me on Discord you should know how to find me. If not, shoot me an 
 email to find out my Session ID via:
-"discord.sucks ***at*** sllord ***full stop*** info". 
+"discord.sucks(at)sllord(full stop)info". 
 Replace the "at" and "full stop" with a "@" and a "." respectively.
